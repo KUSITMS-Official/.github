@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=KUSITMS&color=0:0252A5,100:0F9283&fontColor=FFFFFF)
 
-<h1 align="center">기획자•개발자•디자이너가 모여 하나의 가치를 창조하는 IT 서비스 학회<span style="color:blue">한국대학생IT경영학회(KUSITMS)</span>를 소개합니다</h1>
+<h1 align="center">기획자•개발자•디자이너가 모여 하나의 가치를 창조하는 IT 서비스 학회</br><span style="color:blue">한국대학생IT경영학회(KUSITMS)</span>를 소개합니다</h1>
+
 </br></br></br>
 
 
@@ -42,7 +43,7 @@
 <h2 align="center"><b>📞📫 How to reach us</b></h2>
 
 <p align="center">
-<a href="kusitms@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaz.bigdata@gmail.com"/></a>&nbsp 
+<a href="mailto:kusitms@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaz.bigdata@gmail.com"/></a>&nbsp 
 <a href="https://www.facebook.com/kusitms.page"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp 
 <a href="https://www.instagram.com/kusitms_official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
 <br/>
