@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=KUSITMS&color=0:0252A5,100:0F9283&fontColor=FFFFFF)
 
-<h1 align="center">기획자•개발자•디자이너가 모여 하나의 가치를 창조하는 IT 서비스 학회</br><span style="color:blue">한국대학생IT경영학회(KUSITMS)를</span></br> 소개합니다</h1>
+<h1 align="center">기획자•개발자•디자이너가 모여 하나의 가치를 창조하는 IT 서비스 학회</br><span style="color:blue">한국대학생IT경영학회(KUSITMS)를</span> 소개합니다</h1>
 
 </br></br>
 
